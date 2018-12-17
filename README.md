@@ -2,17 +2,17 @@
 Bitradio MN container
 
 # Build
-./build 
-./run
+- ./build 
+- ./run
 # Start or stop container
-./start
-./stop
+- ./start
+- ./stop
 # Usage
-./enter
-brad getinfo
-brad getbalance
-...
-brad help
+- ./enter
+- brad getinfo
+- brad getbalance
+- ...
+- brad help
 
 
 # Credits
